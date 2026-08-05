@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" fill="none">
+  <!-- LSD lettermark -->
+  <path fill="#6B21A8" class="logo-fill" d="M 20,20 H 45 V 85 H 80 V 100 H 20 Z" />
+  <path stroke="#6B21A8" class="logo-stroke" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" d="M 65,92 H 105 C 135,92 135,50 165,50 H 180" />
+  <path fill="#6B21A8" class="logo-fill" fill-rule="evenodd" clip-rule="evenodd" d="M 195,20 V 100 H 175 V 60 C 175,38 152,38 152,60 C 152,82 175,82 175,60 V 20 H 195 Z M 163,68 C 168,68 172,64 172,60 C 172,56 168,52 163,52 C 158,52 154,56 154,60 C 154,64 158,68 163,68 Z" />
+  <!-- Text -->
+  <text x="210" y="52" fill="#6B21A8" class="logo-text" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="20" letter-spacing="-0.5">Lisbon</text>
+  <text x="210" y="74" fill="#6B21A8" class="logo-text" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="20" letter-spacing="-0.5">School</text>
+  <text x="210" y="96" fill="#6B21A8" class="logo-text" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="20" letter-spacing="-0.5">of Design</text>
+</svg>

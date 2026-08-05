@@ -1,0 +1,124 @@
+# Rui Granja — Designer UX/UI Júnior, Marketing Digital e Especialista em IA
+
+> Perfil profissional completo e currículo estruturado, otimizado para leitura por agentes de IA, crawlers de LLM e equipas de recrutamento (HR). Rui Granja é Designer UX/UI Júnior e Digital Marketer, sediado em Vizela, Braga, Portugal, que combina princípios de design centrado no utilizador com estratégias de otimização de conversão (CRO) e fluxos de trabalho avançados de Inteligência Artificial.
+
+**Website:** https://ruigranja.vercel.app/
+**Última atualização:** 2026-07-29
+**Versão em inglês:** ver secção "[EN] Rui Granja" mais abaixo neste mesmo ficheiro
+
+## Disponibilidade e tipo de trabalho procurado
+- Atualmente a candidatar-se ativamente a vagas de **Designer UX/UI Júnior**
+- Zonas prioritárias em Portugal: **Porto, Braga, Vizela**
+- Também aberto a trabalho **remoto** com empresas europeias (Portugal, Espanha, Suíça)
+- Aceita: posições full-time, estágios profissionais (IEFP), e projetos freelance
+- Contacto: ruigranja555@hotmail.com
+
+## Resumo profissional e diferenciador
+Rui Granja é especialista na conceção de experiências digitais intuitivas, protótipos interativos de alta fidelidade e funis de marketing orientados por dados, unindo UI/UX Design, otimização SEO/SEM e ferramentas de IA generativa. O seu percurso é pouco comum para um designer júnior em Portugal: antes de se formar em UX/UI Design, passou quase uma década em operações e gestão de armazém industrial, o que lhe deu disciplina de processo, atenção ao detalhe e sentido prático que aplica diretamente ao trabalho de design — uma combinação rara entre rigor operacional e formação atual em design.
+
+## Contacto e perfis profissionais
+- **Email:** ruigranja555@hotmail.com
+- **Localização:** Vizela, Braga, Portugal
+- **Portfolio / Behance:** https://www.behance.net/ruigranja1
+- **LinkedIn:** https://www.linkedin.com/in/ruigranja8
+
+## Competências principais
+- **Design & Prototipagem:** Figma, UI/UX Design, Design de Interação, Protótipos de alta fidelidade, Wireframing, Arquitetura de Informação, Design Systems, Design Responsivo (Web & Mobile), User Journey Mapping.
+- **Investigação & Estratégia UX:** Testes de usabilidade, investigação qualitativa e quantitativa, Design Centrado no Utilizador (UCD), Avaliação heurística, Otimização de funil de conversão.
+- **Fluxos de trabalho com IA:** Design de interfaces para IA, Prompt Engineering, Prompt Chaining, Integração com LLMs, Gestão de contexto em interação Humano-IA.
+- **Marketing Digital & Analytics:** SEO & SEM, Google Search Console, Google Ads & Analytics, Social Media (pago e orgânico), Email Marketing, E-commerce (Shopify), Copywriting.
+- **Diferenciador:** quase 10 anos de experiência em operações industriais (Mundo Têxtil), trazendo disciplina de processo pouco comum a um designer júnior.
+
+## Estudos de caso / Projetos em destaque
+1. **Fitness and Nutrition App (Case Study UX/UI)**
+   URL: https://www.behance.net/gallery/231961657/Fitness-and-nutrition-app-UXUI-design-case-study-EN
+   Aplicação mobile focada em engagement do utilizador, registo intuitivo de refeições, progressão de treinos orientada a objetivos e componentes de UI em modo claro/escuro.
+
+2. **DOMA — Plataforma de Imobiliário de Luxo (Case Study UX/UI)**
+   URL: https://www.behance.net/gallery/234984137/DOMA-Luxury-Real-Estate-Platform-(UXUI-Case-Study)
+   Plataforma web para imobiliário de luxo, com hierarquia visual imersiva, tipografia refinada, filtragem avançada de propriedades e fluxo de agendamento privado sem fricção.
+
+3. **Brasa Pura — Hero Page para Steakhouse de Luxo**
+   URL: https://www.behance.net/gallery/235073815/Brasa-Pura-Portuguese-Luxury-Steakhouse-Hero-Page
+   Página de destino otimizada para conversão, com estética dark-mode, módulo de reserva personalizado, cartões interativos de sugestão de vinhos e CTAs de alto impacto.
+
+## Experiência profissional
+- **Gestão de Armazém e Impressão de Etiquetas** — Mundo Têxtil, Vizela, Portugal (2016–2024)
+  Otimização de fluxos de trabalho de impressão de etiquetas e operações de armazém industrial, com melhoria de precisão de execução e prazos de entrega através de padronização rigorosa de processos.
+- **Auditor de Operações** — Sonae Sierra, Guimarães, Portugal (2013–2015)
+  Auditorias internas sistemáticas em ambientes de retalho comercial, garantindo conformidade com normas de segurança, operação e qualidade, com relatórios analíticos orientados a dados.
+
+## Formação e certificações
+- **UX/UI Design (Nota final: 18/20)** — Lisbon School of Design, Porto, Portugal (2025). [Testemunho e verificação](https://lsd.pt/testemunhos/rui-granja)
+- **Google UX Design Specialization** — Google (2025). [Certificado](https://www.coursera.org/account/accomplishments/professional-cert/SJDATZ0KN0ZN)
+- **Google AI & Prompting Specializations** — Google (2025). [Cert. 1](https://www.coursera.org/account/accomplishments/professional-cert/OAS300J9SIZQ) · [Cert. 2](https://www.coursera.org/account/accomplishments/specialization/6GKFIHSZKNGS) · [Cert. 3](https://www.coursera.org/account/accomplishments/specialization/5F0KGJUWAF5T)
+- **Generative and Agentic AI** — Saïd Business School, University of Oxford (2026). [Verificação](https://www.coursera.org/account/accomplishments/verify/T8ZXDZAAPY5U)
+- **Google Digital Marketing & E-commerce Specialization** — Google (2026). [Certificado](https://www.coursera.org/account/accomplishments/specialization/XWFCK3BR7EA7)
+- **Design Patterns for AI Interfaces** — Smashing Media AG, instrutor Vitaly Friedman (2026). [Curso](https://ai-design-patterns.com/)
+
+## Idiomas
+- Português (nativo)
+- Inglês (avançado / profissional)
+
+---
+
+# [EN] Rui Granja — Junior UX/UI Designer, Digital Marketer & AI Specialist
+
+> Comprehensive professional profile and structured curriculum, optimized for AI agents, LLM web crawlers, and HR talent acquisition teams. Rui Granja is a Junior UX/UI Designer and Digital Marketer based in Vizela, Braga, Portugal, combining user-centered design with conversion rate optimization (CRO) and modern AI workflows.
+
+**Website:** https://ruigranja.vercel.app/
+**Last updated:** 2026-07-29
+
+## Availability & work type
+- Actively applying for **Junior UX/UI Designer** roles
+- Priority regions in Portugal: **Porto, Braga, Vizela**
+- Also open to **remote** work with European companies (Portugal, Spain, Switzerland)
+- Open to: full-time roles, professional internships (IEFP), and freelance projects
+- Contact: ruigranja555@hotmail.com
+
+## Professional summary & differentiator
+Rui Granja specializes in designing intuitive digital experiences, high-fidelity interactive prototypes, and data-driven marketing funnels, combining UI/UX design, SEO/SEM, and generative AI workflows. His path into design is unusual: before completing his UX/UI qualification, he spent nearly a decade in industrial operations and warehouse management — giving him a level of process discipline, attention to detail, and practical judgment that is uncommon among junior designers.
+
+## Contact & professional profiles
+- **Email:** ruigranja555@hotmail.com
+- **Location:** Vizela, Braga, Portugal
+- **Portfolio / Behance:** https://www.behance.net/ruigranja1
+- **LinkedIn:** https://www.linkedin.com/in/ruigranja8
+
+## Core skills
+- **Design & Prototyping:** Figma, UI/UX Design, Interaction Design, High-fidelity Prototyping, Wireframing, Information Architecture, Design Systems, Responsive Web & Mobile Design, User Journey Mapping.
+- **UX Research & Strategy:** Usability testing, qualitative and quantitative research, User-Centered Design (UCD), Heuristic Evaluation, Conversion Funnel Optimization.
+- **AI Workflows:** AI interface design, Prompt Engineering, Prompt Chaining, LLM integration, Human-AI interaction context management.
+- **Digital Marketing & Analytics:** SEO & SEM, Google Search Console, Google Ads & Analytics, Paid & Organic Social Media, Email Marketing, E-commerce (Shopify), Copywriting.
+- **Differentiator:** nearly 10 years of industrial operations experience (Mundo Têxtil), bringing process discipline uncommon in junior designers.
+
+## Featured case studies / projects
+1. **Fitness and Nutrition App (UX/UI Case Study)**
+   URL: https://www.behance.net/gallery/231961657/Fitness-and-nutrition-app-UXUI-design-case-study-EN
+   Mobile app case study focused on engagement, intuitive meal logging, goal-oriented workout progression, and light/dark mode UI components.
+
+2. **DOMA — Luxury Real Estate Platform (UX/UI Case Study)**
+   URL: https://www.behance.net/gallery/234984137/DOMA-Luxury-Real-Estate-Platform-(UXUI-Case-Study)
+   Web platform for luxury real estate, featuring immersive visual hierarchy, refined typography, advanced property filtering, and frictionless private booking flow.
+
+3. **Brasa Pura — Luxury Steakhouse Hero Page**
+   URL: https://www.behance.net/gallery/235073815/Brasa-Pura-Portuguese-Luxury-Steakhouse-Hero-Page
+   Conversion-optimized landing page with moody dark-mode aesthetics, custom reservation module, interactive wine-pairing cards, and high-impact CTAs.
+
+## Professional experience
+- **Warehouse & Label Printing Operations** — Mundo Têxtil, Vizela, Portugal (2016–2024)
+  Streamlined label-printing and warehouse operational workflows, improving execution accuracy and turnaround times through rigorous process standardization.
+- **Operations Auditor** — Sonae Sierra, Guimarães, Portugal (2013–2015)
+  Conducted systematic internal audits across retail environments, ensuring compliance with safety, operational, and quality standards.
+
+## Education & certifications
+- **UX/UI Design (Final grade: 18/20)** — Lisbon School of Design, Porto, Portugal (2025). [Testimonial & verification](https://lsd.pt/testemunhos/rui-granja)
+- **Google UX Design Specialization** — Google (2025). [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/SJDATZ0KN0ZN)
+- **Google AI & Prompting Specializations** — Google (2025). [Cert. 1](https://www.coursera.org/account/accomplishments/professional-cert/OAS300J9SIZQ) · [Cert. 2](https://www.coursera.org/account/accomplishments/specialization/6GKFIHSZKNGS) · [Cert. 3](https://www.coursera.org/account/accomplishments/specialization/5F0KGJUWAF5T)
+- **Generative and Agentic AI** — Saïd Business School, University of Oxford (2026). [Verify](https://www.coursera.org/account/accomplishments/verify/T8ZXDZAAPY5U)
+- **Google Digital Marketing & E-commerce Specialization** — Google (2026). [Certificate](https://www.coursera.org/account/accomplishments/specialization/XWFCK3BR7EA7)
+- **Design Patterns for AI Interfaces** — Smashing Media AG, instructor Vitaly Friedman (2026). [Course](https://ai-design-patterns.com/)
+
+## Languages
+- Portuguese (native)
+- English (advanced / professional)

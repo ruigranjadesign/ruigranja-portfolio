@@ -1,0 +1,8 @@
+{
+  "name": "PORTFOLIO MOTION",
+  "description": "UI/UX Designer portfolio and interactive resume featuring project case studies, work experience, education, and light/dark theme support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
