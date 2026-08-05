@@ -1,4 +1,4 @@
-# Portfólio de Rui Granja (UX/UI Designer & CRO Specialist)
+# Portfólio de Rui Granja (UX/UI Designer)
 
 Portfólio profissional e currículo interativo de Rui Granja, com estudos de caso de projetos, experiência profissional, educação e suporte para modo claro e escuro.
 
